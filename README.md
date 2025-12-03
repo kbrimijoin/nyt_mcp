@@ -6,6 +6,10 @@ This is a proof of concept for a Model Context Protocol (MCP) server for NYT dat
 
 Note: This project was scaffolded swiftly with Claude Code. MCP implementation was done by a human (me).
 
+## Demo
+
+https://github.com/user-attachments/assets/3cc1b9e3-6c19-4b1c-abc1-2cbeb5780684
+
 ## Setup
 
 1. Create a virtual environment:
