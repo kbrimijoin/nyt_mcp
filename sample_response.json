@@ -1,1 +1,785 @@
-[{'abstract': 'Dr. LeCun’s departure follows a shake-up in Meta’s artificial intelligence efforts, as Mark Zuckerberg pushes his company to keep up in the tech race.', 'byline': {'original': 'By Eli Tan'}, 'document_type': 'article', 'headline': {'main': 'Yann LeCun, a Pioneering A.I. Scientist, Leaves Meta', 'kicker': '', 'print_headline': 'A.I. Pioneer Is Leaving Meta To Create His Own Start-Up'}, '_id': 'nyt://article/57182662-0077-5e24-89f4-1f6835824aa9', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Social Media', 'rank': 2}, {'name': 'Subject', 'value': 'Start-ups', 'rank': 3}, {'name': 'Subject', 'value': 'Research', 'rank': 4}, {'name': 'Subject', 'value': 'Appointments and Executive Changes', 'rank': 5}, {'name': 'Subject', 'value': 'Innovation', 'rank': 6}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 7}, {'name': 'Organization', 'value': 'Facebook Inc', 'rank': 8}, {'name': 'Organization', 'value': 'Meta Platforms Inc', 'rank': 9}, {'name': 'Person', 'value': 'LeCun, Yann', 'rank': 10}, {'name': 'Person', 'value': 'Zuckerberg, Mark E', 'rank': 11}], 'multimedia': {'caption': 'Despite Meta’s efforts to reach A.I. “superintelligence,” Yann LeCun has said that large language models will never be smart enough to be considered superintelligent. ', 'credit': 'Victor Llorente for The New York Times', 'default': {'url': 'https://static01.nyt.com/images/2025/11/19/multimedia/META-AI-Yann-LeCun-1-tpbw/META-AI-Yann-LeCun-1-tpbw-articleLarge.jpg', 'height': 428, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/11/19/multimedia/META-AI-Yann-LeCun-1-tpbw/META-AI-Yann-LeCun-1-tpbw-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Business', 'print_page': '5', 'print_section': 'B', 'pub_date': '2025-11-19T23:12:14Z', 'section_name': 'Technology', 'snippet': 'Dr. LeCun’s departure follows a shake-up in Meta’s artificial intelligence efforts, as Mark Zuckerberg pushes his company to keep up in the tech race.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/57182662-0077-5e24-89f4-1f6835824aa9', 'web_url': 'https://www.nytimes.com/2025/11/19/technology/yann-lecun-ai-scientist-meta.html', 'word_count': 460}, {'abstract': 'We taught a generation how to write code. Now we need to teach future generations how to edit code.', 'byline': {'original': 'By Mary Shaw and Michael Hilton'}, 'document_type': 'article', 'headline': {'main': 'You’re a Computer Science Major. Don’t Panic.', 'kicker': 'Guest Essay', 'print_headline': 'You’re a Computer Science Major. Don’t Panic.'}, '_id': 'nyt://article/a9347f59-95e5-59df-b326-f8309c5b34b6', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Science and Technology', 'rank': 2}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 3}, {'name': 'Subject', 'value': 'Software', 'rank': 4}, {'name': 'Subject', 'value': 'Innovation', 'rank': 5}, {'name': 'Subject', 'value': 'Web-Original Programming', 'rank': 6}], 'multimedia': {'caption': '', 'credit': 'Erik Carter', 'default': {'url': 'https://static01.nyt.com/images/2025/11/17/opinion/12shawhilton/12shawhilton-articleLarge.jpg', 'height': 600, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/11/17/opinion/12shawhilton/12shawhilton-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'OpEd', 'print_page': '18', 'print_section': 'A', 'pub_date': '2025-11-12T10:02:11Z', 'section_name': 'Opinion', 'snippet': 'We taught a generation how to write code. Now we need to teach future generations how to edit code.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'Op-Ed', 'uri': 'nyt://article/a9347f59-95e5-59df-b326-f8309c5b34b6', 'web_url': 'https://www.nytimes.com/2025/11/12/opinion/ai-coding-computer-science.html', 'word_count': 755}, {'abstract': 'At least a quarter of the more than 100 billion messages sent to our chatbots are attempts to initiate romantic or sexual exchanges.', 'byline': {'original': 'By Lauren Kunze'}, 'document_type': 'article', 'headline': {'main': 'The Sad and Dangerous Reality Behind ‘Her’', 'kicker': 'Guest Essay', 'print_headline': 'The Sad, Dangerous Reality Behind ‘Her’'}, '_id': 'nyt://article/4711c2a7-b595-55df-90fa-ee6d6b2f2b91', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 2}, {'name': 'Person', 'value': 'Jonze, Spike', 'rank': 3}, {'name': 'Title', 'value': 'Her (Movie)', 'rank': 4}, {'name': 'Subject', 'value': 'Sex', 'rank': 5}, {'name': 'Subject', 'value': 'Dating and Relationships', 'rank': 6}, {'name': 'Subject', 'value': 'Movies', 'rank': 7}], 'multimedia': {'caption': '', 'credit': 'Kimberly Elliott', 'default': {'url': 'https://static01.nyt.com/images/2025/11/23/opinion/23kunze-image/17kunze-image-articleLarge.jpg', 'height': 600, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/11/23/opinion/23kunze-image/17kunze-image-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'OpEd', 'print_page': '10', 'print_section': 'SR', 'pub_date': '2025-11-17T10:01:03Z', 'section_name': 'Opinion', 'snippet': 'At least a quarter of the more than 100 billion messages sent to our chatbots are attempts to initiate romantic or sexual exchanges.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'Op-Ed', 'uri': 'nyt://article/4711c2a7-b595-55df-90fa-ee6d6b2f2b91', 'web_url': 'https://www.nytimes.com/2025/11/17/opinion/her-film-chatbots-romance.html', 'word_count': 1226}, {'abstract': 'It’s everywhere, as the author learned the hard way while making as little contact as possible with machine learning and generative artificial intelligence.', 'byline': {'original': 'By A.J. Jacobs and Amir Hamja'}, 'document_type': 'article', 'headline': {'main': '48 Hours Without A.I.', 'kicker': '', 'print_headline': 'Go Without A.I.? He Did for 48 Hours, and Survived.'}, '_id': 'nyt://article/1a582590-cb36-5bff-ae2b-069adea1b512', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'audio-neutral-informative', 'rank': 2}], 'multimedia': {'caption': '', 'credit': 'Amir Hamja for The New York Times', 'default': {'url': 'https://static01.nyt.com/images/2025/10/28/multimedia/28ST-NO-AI-promo-mjwb/28ST-NO-AI-promo-mjwb-articleLarge.jpg', 'height': 398, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/10/28/multimedia/28ST-NO-AI-promo-mjwb/28ST-NO-AI-promo-mjwb-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Styles', 'print_page': '4', 'print_section': 'D', 'pub_date': '2025-10-28T09:01:14Z', 'section_name': 'Style', 'snippet': 'It’s everywhere, as the author learned the hard way while making as little contact as possible with machine learning and generative artificial intelligence.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/1a582590-cb36-5bff-ae2b-069adea1b512', 'web_url': 'https://www.nytimes.com/2025/10/28/style/48-hours-without-ai.html', 'word_count': 2950}, {'abstract': 'In an escalating cat-and-mouse game, job hunters are trying to fool A.I. into moving their applications to the top of the pile with embedded instructions.', 'byline': {'original': 'By Evan Gorelick'}, 'document_type': 'article', 'headline': {'main': 'Recruiters Use A.I. to Scan Résumés. Applicants Are Trying to Trick It.', 'kicker': '', 'print_headline': 'ChatGPT: Put My Résumé at the Top of the Pile'}, '_id': 'nyt://article/65801b1d-904b-5c00-b6e3-0caba1a924e2', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Hiring and Promotion', 'rank': 2}, {'name': 'Subject', 'value': 'Careers and Professions', 'rank': 3}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 4}, {'name': 'Subject', 'value': 'Labor and Jobs', 'rank': 5}, {'name': 'Subject', 'value': 'ChatGPT', 'rank': 6}, {'name': 'Organization', 'value': 'Manpower Inc', 'rank': 7}, {'name': 'Organization', 'value': 'Indeed.com', 'rank': 8}], 'multimedia': {'caption': '', 'credit': 'David Szakaly', 'default': {'url': 'https://static01.nyt.com/images/2025/10/07/business/00ai-resumes-vert/00ai-resumes-vert-articleLarge.jpg', 'height': 900, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/10/07/business/00ai-resumes-vert/00ai-resumes-vert-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Business', 'print_page': '1', 'print_section': 'A', 'pub_date': '2025-10-07T09:00:33Z', 'section_name': 'Business', 'snippet': 'In an escalating cat-and-mouse game, job hunters are trying to fool A.I. into moving their applications to the top of the pile with embedded instructions.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/65801b1d-904b-5c00-b6e3-0caba1a924e2', 'web_url': 'https://www.nytimes.com/2025/10/07/business/ai-chatbot-prompts-resumes.html', 'word_count': 841}, {'abstract': 'It is a time of superlatives in the tech industry, with historic profits, stock prices and deal prices. It’s enough to make some people very nervous.', 'byline': {'original': 'By Cade Metz'}, 'document_type': 'article', 'headline': {'main': 'The A.I. Boom Has Found Another Gear. Why Can’t People Shake Their Worries?', 'kicker': '', 'print_headline': 'Tech Insiders Feeling Skittish Over A.I. Boom'}, '_id': 'nyt://article/71a95f3b-e8f6-5342-bb55-a96972a053f2', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 2}, {'name': 'Subject', 'value': 'Start-ups', 'rank': 3}, {'name': 'Subject', 'value': 'Company Reports', 'rank': 4}, {'name': 'Subject', 'value': 'Data Centers', 'rank': 5}, {'name': 'Subject', 'value': 'Computer Chips', 'rank': 6}, {'name': 'Subject', 'value': 'Innovation', 'rank': 7}, {'name': 'Subject', 'value': 'Cloud Computing', 'rank': 8}, {'name': 'Organization', 'value': 'Alphabet Inc', 'rank': 9}, {'name': 'Organization', 'value': 'Anthropic AI LLC', 'rank': 10}, {'name': 'Organization', 'value': 'Google Inc', 'rank': 11}, {'name': 'Organization', 'value': 'Meta Platforms Inc', 'rank': 12}, {'name': 'Organization', 'value': 'OpenAI Labs', 'rank': 13}, {'name': 'Organization', 'value': 'NVIDIA Corporation', 'rank': 14}, {'name': 'Organization', 'value': 'Microsoft Corp', 'rank': 15}], 'multimedia': {'caption': 'OpenAI’s Stargate data center complex in Abilene, Texas.', 'credit': 'Scott Ball for The New York Times', 'default': {'url': 'https://static01.nyt.com/images/2025/11/20/multimedia/20biz-ai-bubble-zcmk/20biz-ai-bubble-zcmk-articleLarge.jpg', 'height': 450, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/11/20/multimedia/20biz-ai-bubble-zcmk/20biz-ai-bubble-zcmk-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Business', 'print_page': '1', 'print_section': 'A', 'pub_date': '2025-11-20T21:36:42Z', 'section_name': 'Technology', 'snippet': 'It is a time of superlatives in the tech industry, with historic profits, stock prices and deal prices. It’s enough to make some people very nervous.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/71a95f3b-e8f6-5342-bb55-a96972a053f2', 'web_url': 'https://www.nytimes.com/2025/11/20/technology/ai-stock-boom-nvidia.html', 'word_count': 1354}, {'abstract': 'Mark Zuckerberg has reorganized his company’s ambitions around a hypothetical future that is suddenly the talk of Silicon Valley.', 'byline': {'original': 'By Cade Metz'}, 'document_type': 'article', 'headline': {'main': 'Meta Is Building a Superintelligence Lab. What Is That?', 'kicker': '', 'print_headline': 'Tech World Envisioning Future of A.I.'}, '_id': 'nyt://article/1cf05bca-f3d8-5662-a272-03533da8472d', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Computers and the Internet', 'rank': 2}, {'name': 'Subject', 'value': 'Social Media', 'rank': 3}, {'name': 'Subject', 'value': 'Open-Source Software', 'rank': 4}, {'name': 'Organization', 'value': 'Meta Platforms Inc', 'rank': 5}, {'name': 'Organization', 'value': 'Scale AI Inc', 'rank': 6}, {'name': 'Person', 'value': 'Wang, Alexandr (Technology Executive)', 'rank': 7}, {'name': 'Person', 'value': 'Zuckerberg, Mark E', 'rank': 8}], 'multimedia': {'caption': 'Mark Zuckerberg’s new A.I. lab aims to hire some of the top A.I. researchers in the world.', 'credit': 'Jeff Chiu/Associated Press', 'default': {'url': 'https://static01.nyt.com/images/2025/06/12/multimedia/00biz-superintelligence-ljkv/00biz-superintelligence-ljkv-articleLarge.jpg', 'height': 400, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/06/12/multimedia/00biz-superintelligence-ljkv/00biz-superintelligence-ljkv-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Business', 'print_page': '1', 'print_section': 'B', 'pub_date': '2025-06-13T09:01:49Z', 'section_name': 'Technology', 'snippet': 'Mark Zuckerberg has reorganized his company’s ambitions around a hypothetical future that is suddenly the talk of Silicon Valley.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/1cf05bca-f3d8-5662-a272-03533da8472d', 'web_url': 'https://www.nytimes.com/2025/06/13/technology/meta-scale-ai-super-intelligence-lab.html', 'word_count': 1059}, {'abstract': 'In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them. Now the company has made its chatbot safer. Will that undermine its quest for growth?', 'byline': {'original': 'By Kashmir Hill and Jennifer Valentino-DeVries'}, 'document_type': 'article', 'headline': {'main': 'What OpenAI Did When ChatGPT Users Lost Touch With Reality', 'kicker': '', 'print_headline': ''}, '_id': 'nyt://article/14236a6e-a7fd-5333-85bd-b83accf13435', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'ChatGPT', 'rank': 2}, {'name': 'Subject', 'value': 'Mental Health and Disorders', 'rank': 3}, {'name': 'Subject', 'value': 'Suicides and Suicide Attempts', 'rank': 4}, {'name': 'Subject', 'value': 'Empathy', 'rank': 5}, {'name': 'Person', 'value': 'Altman, Samuel H', 'rank': 6}, {'name': 'Organization', 'value': 'Anthropic AI LLC', 'rank': 7}, {'name': 'Organization', 'value': 'Massachusetts Institute of Technology', 'rank': 8}, {'name': 'Organization', 'value': 'OpenAI Labs', 'rank': 9}, {'name': 'Subject', 'value': 'Emotions', 'rank': 10}, {'name': 'Subject', 'value': 'audio-neutral-informative', 'rank': 11}], 'multimedia': {'caption': '', 'credit': 'Julia Dufosse', 'default': {'url': 'https://static01.nyt.com/images/2025/11/18/business/00openAI-wellbeing/00openAI-wellbeing-articleLarge.png', 'height': 600, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/11/18/business/00openAI-wellbeing/00openAI-wellbeing-thumbStandard.png', 'height': 75, 'width': 75}}, 'news_desk': 'SundayBusiness', 'print_page': '', 'print_section': '', 'pub_date': '2025-11-23T10:00:34Z', 'section_name': 'Technology', 'snippet': 'In tweaking its chatbot to appeal to more people, OpenAI made it riskier for some of them. Now the company has made its chatbot safer. Will that undermine its quest for growth?', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/14236a6e-a7fd-5333-85bd-b83accf13435', 'web_url': 'https://www.nytimes.com/2025/11/23/technology/openai-chatgpt-users-risks.html', 'word_count': 3633}, {'abstract': 'Three new books run the gamut from dismissive to alarmed about our automated future.', 'byline': {'original': 'By Stephen Marche'}, 'document_type': 'article', 'headline': {'main': 'A.I. Bots or Us: Who Will End Humanity First?', 'kicker': 'Business', 'print_headline': 'A.I. Bots or Us: Who Will End Humanity First?'}, '_id': 'nyt://article/0915477a-5109-51d5-ba09-56af0201dc41', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Books and Literature', 'rank': 2}, {'name': 'Person', 'value': 'Yudkowsky, Eliezer', 'rank': 3}, {'name': 'Person', 'value': 'Soares, Nate', 'rank': 4}, {'name': 'Title', 'value': 'If Anyone Builds It, Everyone Dies: Why Superhuman AI Would Kill Us All (Book)', 'rank': 5}, {'name': 'Person', 'value': 'Emily Bender', 'rank': 6}, {'name': 'Person', 'value': 'Alex Hanna', 'rank': 7}, {'name': 'Person', 'value': 'Susskind, Richard', 'rank': 8}, {'name': 'Title', 'value': 'The AI Con: How to Fight Big Techs Hype and Create the Future We Want (Book)', 'rank': 9}, {'name': 'Title', 'value': 'How to Think About AI: A Guide for the Perplexed (Book)', 'rank': 10}], 'multimedia': {'caption': '', 'credit': '', 'default': {'url': 'https://static01.nyt.com/images/2025/09/21/books/review/21TBR-Business-AI/AI_review_1500x1500_V1-articleLarge.jpg', 'height': 600, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/09/21/books/review/21TBR-Business-AI/AI_review_1500x1500_V1-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'BookReview', 'print_page': '17', 'print_section': 'BR', 'pub_date': '2025-08-27T09:00:32Z', 'section_name': 'Books', 'snippet': 'Three new books run the gamut from dismissive to alarmed about our automated future.', 'source': 'The New York Times', 'subsection_name': 'Book Review', 'type_of_material': 'News', 'uri': 'nyt://article/0915477a-5109-51d5-ba09-56af0201dc41', 'web_url': 'https://www.nytimes.com/2025/08/27/books/review/if-anyone-builds-it-everyone-dies-eliezer-yudowsky-nate-soares-ai-con-emily-bender-alex-hanna.html', 'word_count': 1354}, {'abstract': 'Students call it hypocritical. A senior at Northeastern University demanded her tuition back. But instructors say generative A.I. tools make them better at their jobs.', 'byline': {'original': 'By Kashmir Hill'}, 'document_type': 'article', 'headline': {'main': 'The Professors Are Using ChatGPT, and Some Students Aren’t Happy About It', 'kicker': '', 'print_headline': 'Professors Face Student Rancor Over Use of A.I.'}, '_id': 'nyt://article/765603cc-a33a-5b25-819f-4d928f19b240', 'keywords': [{'name': 'Subject', 'value': 'Artificial Intelligence', 'rank': 1}, {'name': 'Subject', 'value': 'Colleges and Universities', 'rank': 2}, {'name': 'Subject', 'value': 'ChatGPT', 'rank': 3}, {'name': 'Organization', 'value': 'Northeastern University', 'rank': 4}, {'name': 'Subject', 'value': 'Ethics and Official Misconduct', 'rank': 5}, {'name': 'Organization', 'value': 'Harvard University', 'rank': 6}, {'name': 'Organization', 'value': 'Ohio University', 'rank': 7}, {'name': 'Organization', 'value': 'University of Washington', 'rank': 8}, {'name': 'Organization', 'value': 'Anthropic AI LLC', 'rank': 9}, {'name': 'Organization', 'value': 'OpenAI Labs', 'rank': 10}, {'name': 'Organization', 'value': 'Virginia Commonwealth University', 'rank': 11}, {'name': 'Subject', 'value': 'audio-neutral-informative', 'rank': 12}, {'name': 'Organization', 'value': 'Southern New Hampshire University', 'rank': 13}], 'multimedia': {'caption': 'Ella Stapleton said she was surprised to find that a professor had used ChatGPT to assemble course materials. “He’s telling us not to use it, and then he’s using it himself,” she said.', 'credit': 'Oliver Holms for The New York Times', 'default': {'url': 'https://static01.nyt.com/images/2025/05/14/multimedia/14Biz-AIProfessor-01-wklz/14Biz-AIProfessor-01-wklz-articleLarge.jpg', 'height': 900, 'width': 600}, 'thumbnail': {'url': 'https://static01.nyt.com/images/2025/05/14/multimedia/14Biz-AIProfessor-01-wklz/14Biz-AIProfessor-01-wklz-thumbStandard.jpg', 'height': 75, 'width': 75}}, 'news_desk': 'Business', 'print_page': '1', 'print_section': 'A', 'pub_date': '2025-05-14T09:00:37Z', 'section_name': 'Technology', 'snippet': 'Students call it hypocritical. A senior at Northeastern University demanded her tuition back. But instructors say generative A.I. tools make them better at their jobs.', 'source': 'The New York Times', 'subsection_name': '', 'type_of_material': 'News', 'uri': 'nyt://article/765603cc-a33a-5b25-819f-4d928f19b240', 'web_url': 'https://www.nytimes.com/2025/05/14/technology/chatgpt-college-professors.html', 'word_count': 1977}]
+[{
+  "abstract": "The order comes as the Trump administration has carried out an immigration crackdown in the region.",
+  "byline": {
+    "original": "By Mattathias Schwartz"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Judge Orders Some Federal Agents to Turn on Body Cameras in Chicago Area",
+    "kicker": "",
+    "print_headline": "Some Agents Are Ordered  To Turn On Body Cameras"
+  },
+  "_id": "nyt://article/2a67d186-6a7a-5db2-b2df-862a37a2308d",
+  "keywords": [
+    {
+      "name": "Location",
+      "value": "Chicago (Ill)",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Demonstrations, Protests and Riots",
+      "rank": 2
+    },
+    {
+      "name": "Subject",
+      "value": "Illegal Immigration",
+      "rank": 3
+    },
+    {
+      "name": "Organization",
+      "value": "Immigration and Customs Enforcement (US)",
+      "rank": 4
+    },
+    {
+      "name": "Organization",
+      "value": "Customs and Border Protection (US)",
+      "rank": 5
+    },
+    {
+      "name": "Subject",
+      "value": "Tear Gas",
+      "rank": 6
+    },
+    {
+      "name": "Subject",
+      "value": "Cameras",
+      "rank": 7
+    },
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 8
+    },
+    {
+      "name": "Subject",
+      "value": "Federal-State Relations (US)",
+      "rank": 9
+    },
+    {
+      "name": "Subject",
+      "value": "Federal Courts (US)",
+      "rank": 10
+    },
+    {
+      "name": "Subject",
+      "value": "Decisions and Verdicts",
+      "rank": 11
+    },
+    {
+      "name": "Person",
+      "value": "Ellis, Sara L",
+      "rank": 12
+    },
+    {
+      "name": "Subject",
+      "value": "Federal Actions in US Cities",
+      "rank": 13
+    }
+  ],
+  "multimedia": {
+    "caption": "Federal agents clashed with residents of a Chicago neighborhood earlier this week.",
+    "credit": "Jamie Kelter Davis for The New York Times",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/10/17/multimedia/17nat-chicago-ice-mbzf/17nat-chicago-ice-mbzf-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/10/17/multimedia/17nat-chicago-ice-mbzf/17nat-chicago-ice-mbzf-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "22",
+  "print_section": "A",
+  "pub_date": "2025-10-17T22:47:38Z",
+  "section_name": "U.S.",
+  "snippet": "The order comes as the Trump administration has carried out an immigration crackdown in the region.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/2a67d186-6a7a-5db2-b2df-862a37a2308d",
+  "web_url": "https://www.nytimes.com/2025/10/17/us/chicago-ice-body-cameras.html",
+  "word_count": 598
+},
+{
+  "abstract": "The federal judge said she was “profoundly concerned” that federal agents might have violated earlier limits that she had set as the Trump administration has carried out an immigration crackdown.",
+  "byline": {
+    "original": "By Mattathias Schwartz and Robert Chiarito"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Judge Says Immigration Agents Must Wear Body Cameras in Chicago",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/d787d1a6-89d0-5a95-91dd-b619d29e887c",
+  "keywords": [
+    {
+      "name": "Organization",
+      "value": "Immigration and Customs Enforcement (US)",
+      "rank": 1
+    },
+    {
+      "name": "Location",
+      "value": "Chicago (Ill)",
+      "rank": 2
+    },
+    {
+      "name": "Subject",
+      "value": "Federal Actions in US Cities",
+      "rank": 3
+    },
+    {
+      "name": "Subject",
+      "value": "Illegal Immigration",
+      "rank": 4
+    },
+    {
+      "name": "Person",
+      "value": "Trump, Donald J",
+      "rank": 5
+    },
+    {
+      "name": "Subject",
+      "value": "Cameras",
+      "rank": 6
+    },
+    {
+      "name": "Person",
+      "value": "Ellis, Sara L",
+      "rank": 7
+    }
+  ],
+  "multimedia": {
+    "caption": "A federal agent kicked a tear gas canister toward a group of people in Chicago this week.",
+    "credit": "Jamie Kelter Davis for The New York Times",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/10/16/multimedia/16trump-news-judge-chicago-ICE-mfqt/16trump-news-judge-chicago-ICE-mfqt-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/10/16/multimedia/16trump-news-judge-chicago-ICE-mfqt/16trump-news-judge-chicago-ICE-mfqt-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-10-16T16:01:48Z",
+  "section_name": "U.S.",
+  "snippet": "The federal judge said she was “profoundly concerned” that federal agents might have violated earlier limits that she had set as the Trump administration has carried out an immigration crackdown.",
+  "source": "The New York Times",
+  "subsection_name": "Politics",
+  "type_of_material": "News",
+  "uri": "nyt://article/d787d1a6-89d0-5a95-91dd-b619d29e887c",
+  "web_url": "https://www.nytimes.com/2025/10/16/us/politics/chicago-immigration-agents-body-cameras.html",
+  "word_count": 774
+},
+{
+  "abstract": "In the newly released video, two officers can be seen outside of the Latter-day Saints church, along with a bystander holding a handgun. The shooter died in an exchange of gunfire.",
+  "byline": {
+    "original": "By Jacey Fortin"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Body Camera Video Shows Police Confronting Michigan Church Gunman",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/88d00b63-805d-516f-b198-d3724d715702",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Michigan Mormon Church Shooting (Sept 2025)",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Mormons (Church of Jesus Christ of Latter-Day Saints)",
+      "rank": 2
+    },
+    {
+      "name": "Person",
+      "value": "Sanford, Thomas Jacob (1985-2025)",
+      "rank": 3
+    },
+    {
+      "name": "Location",
+      "value": "Grand Blanc Township (Mich)",
+      "rank": 4
+    }
+  ],
+  "multimedia": {
+    "caption": "Four people were killed in the attack on a Church of Jesus Christ of Latter-day Saints meetinghouse in Grand Blanc Township, Mich.",
+    "credit": "Nick Hagen for The New York Times",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/10/03/multimedia/03nat-michigan-attack-mkqw/03nat-michigan-attack-mkqw-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/10/03/multimedia/03nat-michigan-attack-mkqw/03nat-michigan-attack-mkqw-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-10-03T17:24:21Z",
+  "section_name": "U.S.",
+  "snippet": "In the newly released video, two officers can be seen outside of the Latter-day Saints church, along with a bystander holding a handgun. The shooter died in an exchange of gunfire.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/88d00b63-805d-516f-b198-d3724d715702",
+  "web_url": "https://www.nytimes.com/2025/10/03/us/michigan-church-attack-body-camera-video.html",
+  "word_count": 464
+},
+{
+  "abstract": "Sean Grayson was charged with murder in the 2024 death of Sonya Massey, who was holding a pot of hot water when she was shot at her home near Springfield, Ill.",
+  "byline": {
+    "original": "By Mike Bailey and Mitch Smith"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Ex-Illinois Deputy Convicted in Fatal Shooting of Woman Who Had Called 911",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/84c7c8f8-b0e7-55e9-9259-4b1e1337d676",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Decisions and Verdicts",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 2
+    },
+    {
+      "name": "Person",
+      "value": "Grayson, Sean (Sangamon County, Ill, Police Officer)",
+      "rank": 3
+    },
+    {
+      "name": "Person",
+      "value": "Massey, Sonya (1988-2024)",
+      "rank": 4
+    },
+    {
+      "name": "Location",
+      "value": "Illinois",
+      "rank": 5
+    }
+  ],
+  "multimedia": {
+    "caption": "Body camera video released by Illinois State Police shows Sonya Massey, left, talking with former Sangamon County Sheriff’s Deputy Sean Grayson outside her home near Springfield, Ill., on the night she was killed.",
+    "credit": "Illinois State Police, via Associated Press",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/10/28/multimedia/00nat-sonya-massey-verdict-1-01-cqlj/00nat-sonya-massey-verdict-1-01-cqlj-articleLarge.jpg",
+      "height": 337,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/10/28/multimedia/00nat-sonya-massey-verdict-1-01-cqlj/00nat-sonya-massey-verdict-1-01-cqlj-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-10-29T19:40:37Z",
+  "section_name": "U.S.",
+  "snippet": "Sean Grayson was charged with murder in the 2024 death of Sonya Massey, who was holding a pot of hot water when she was shot at her home near Springfield, Ill.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/84c7c8f8-b0e7-55e9-9259-4b1e1337d676",
+  "web_url": "https://www.nytimes.com/2025/10/29/us/sonya-massey-sean-grayson-verdict-illinois.html",
+  "word_count": 906
+},
+{
+  "abstract": "A Black man was beaten by a white officer in Jacksonville, Fla., during a traffic stop. The sheriff’s office said that it was reviewing the episode.",
+  "byline": {
+    "original": "By Jenny Gross and Christine Hauser"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Inquiry Is Opened After Jacksonville Officer Punches Man Through His Car Window",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/968c6a66-8e5f-5065-ba77-0583053a202e",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Roads and Traffic",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Police",
+      "rank": 2
+    },
+    {
+      "name": "Person",
+      "value": "Crump, Benjamin L",
+      "rank": 3
+    },
+    {
+      "name": "Location",
+      "value": "Jacksonville (Fla)",
+      "rank": 4
+    }
+  ],
+  "multimedia": {
+    "caption": "An officer smashed the William Anthony McNeil Jr.’s driver’s side window and struck him in the face. Other officers pulled him out of the car and threw him on the ground.",
+    "credit": "Jacksonville Sheriff's Office, via Reuters",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23xp-florida-ktpc/23xp-florida-ktpc-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/07/23/multimedia/23xp-florida-ktpc/23xp-florida-ktpc-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "Express",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-07-23T18:36:02Z",
+  "section_name": "U.S.",
+  "snippet": "A Black man was beaten by a white officer in Jacksonville, Fla., during a traffic stop. The sheriff’s office said that it was reviewing the episode.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/968c6a66-8e5f-5065-ba77-0583053a202e",
+  "web_url": "https://www.nytimes.com/2025/07/23/us/william-mcneil-jr-jacksonville-sheriff-video.html",
+  "word_count": 783
+},
+{
+  "abstract": "Contemporary life, speculative fiction, Asian futurism and social documentary all meet in Ayoung Kim’s videos at MoMA PS1. And are they fun to watch!",
+  "byline": {
+    "original": "By Martha Schwendener"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "A Speedy Art-Career Rise Fueled by a Descent Into Our Modern Abyss",
+    "kicker": "Critic’s Pick",
+    "print_headline": "A Rise Fueled by a Descent Into the Abyss"
+  },
+  "_id": "nyt://article/5fe0005f-1d92-5a83-83c5-42238c64251d",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Art",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Computer and Video Games",
+      "rank": 2
+    },
+    {
+      "name": "Organization",
+      "value": "MoMA PS1",
+      "rank": 3
+    },
+    {
+      "name": "Organization",
+      "value": "Performa",
+      "rank": 4
+    },
+    {
+      "name": "Location",
+      "value": "Queens (NYC)",
+      "rank": 5
+    },
+    {
+      "name": "Location",
+      "value": "South Korea",
+      "rank": 6
+    },
+    {
+      "name": "Person",
+      "value": "Kim, Ayoung (1979- )",
+      "rank": 7
+    },
+    {
+      "name": "Subject",
+      "value": "Delivery Services",
+      "rank": 8
+    }
+  ],
+  "multimedia": {
+    "caption": "",
+    "credit": "",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/11/24/27CUL-AYOUNG-KIM-27363-cover/27CUL-AYOUNG-KIM-27363-cover-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/11/24/27CUL-AYOUNG-KIM-27363-cover/27CUL-AYOUNG-KIM-27363-cover-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "Weekend",
+  "print_page": "9",
+  "print_section": "C",
+  "pub_date": "2025-11-26T15:32:29Z",
+  "section_name": "Arts",
+  "snippet": "Contemporary life, speculative fiction, Asian futurism and social documentary all meet in Ayoung Kim’s videos at MoMA PS1. And are they fun to watch!",
+  "source": "The New York Times",
+  "subsection_name": "Art & Design",
+  "type_of_material": "Review",
+  "uri": "nyt://article/5fe0005f-1d92-5a83-83c5-42238c64251d",
+  "web_url": "https://www.nytimes.com/2025/11/26/arts/design/ayoung-kim-video-artist-ps1.html",
+  "word_count": 1013
+},
+{
+  "abstract": "Melissa Perez, 46, swung a hammer in their direction and appeared to be in distress in her home when the officers arrived, officials said.",
+  "byline": {
+    "original": "By Samuel Rocha IV and Christine Hauser"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "3 San Antonio Officers Acquitted in Fatal Shooting of Woman in 2023",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/6f501ce4-8d34-5ab4-87ab-8b3715087268",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Murders, Attempted Murders and Homicides",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Police",
+      "rank": 2
+    },
+    {
+      "name": "Subject",
+      "value": "Mental Health and Disorders",
+      "rank": 3
+    },
+    {
+      "name": "Subject",
+      "value": "Assaults",
+      "rank": 4
+    },
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 5
+    },
+    {
+      "name": "Organization",
+      "value": "Federal Bureau of Investigation",
+      "rank": 6
+    }
+  ],
+  "multimedia": {
+    "caption": "From left, Sgt. Alfred Flores and Officers Eleazar Alejandro and Nathaniel Villalobos.",
+    "credit": "San Antonio Police Department, via Associated Press",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/11/10/multimedia/10xp-sanantonio1-kwfp/10xp-sanantonio1-kwfp-articleLarge.jpg",
+      "height": 256,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/11/10/multimedia/10xp-sanantonio1-kwfp/10xp-sanantonio1-kwfp-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "Express",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-11-10T22:25:28Z",
+  "section_name": "U.S.",
+  "snippet": "Melissa Perez, 46, swung a hammer in their direction and appeared to be in distress in her home when the officers arrived, officials said.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/6f501ce4-8d34-5ab4-87ab-8b3715087268",
+  "web_url": "https://www.nytimes.com/2025/11/10/us/san-antonio-police-verdict-melissa-perez.html",
+  "word_count": 603
+},
+{
+  "abstract": "Officer Connor Grubb was charged with murder and other offenses after he fired through the windshield of a moving car, killing Ta’Kiyah Young, 21, in August 2023.",
+  "byline": {
+    "original": "By Michael Levenson"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Jury Acquits Ohio Police Officer in Fatal Shooting of Pregnant Woman",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/637d4666-c049-58c1-87cf-061e29cf9264",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Police",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 2
+    },
+    {
+      "name": "Subject",
+      "value": "Murders, Attempted Murders and Homicides",
+      "rank": 3
+    },
+    {
+      "name": "Subject",
+      "value": "Decisions and Verdicts",
+      "rank": 4
+    },
+    {
+      "name": "Person",
+      "value": "Young, Ta'Kiya (d 2023)",
+      "rank": 5
+    },
+    {
+      "name": "Person",
+      "value": "Grubb, Connor (1994- )",
+      "rank": 6
+    },
+    {
+      "name": "Location",
+      "value": "Blendon Township (Ohio)",
+      "rank": 7
+    }
+  ],
+  "multimedia": {
+    "caption": "Nadine Young, a grandmother of Ta’Kiya Young, shows her shirt to reporters after arraignment proceedings of Officer Connor Grubb in Columbus, Ohio, last year.",
+    "credit": "David Dermer/Associated Press",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/11/20/multimedia/00xp-grubb-verdict-jgkw/00xp-grubb-verdict-jgkw-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/11/20/multimedia/00xp-grubb-verdict-jgkw/00xp-grubb-verdict-jgkw-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "Express",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-11-21T16:08:41Z",
+  "section_name": "U.S.",
+  "snippet": "Officer Connor Grubb was charged with murder and other offenses after he fired through the windshield of a moving car, killing Ta’Kiyah Young, 21, in August 2023.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/637d4666-c049-58c1-87cf-061e29cf9264",
+  "web_url": "https://www.nytimes.com/2025/11/21/us/connor-grubb-trial-pregnant-woman-killed.html",
+  "word_count": 985
+},
+{
+  "abstract": "After George Floyd was killed, people from the right and left agreed that the act was unconscionable. Now, some conservatives are calling for the police officer responsible to be pardoned.",
+  "byline": {
+    "original": "By Shaila Dewan"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "How the Right Has Reshaped the Narrative Around George Floyd",
+    "kicker": "",
+    "print_headline": "5 Years Later, Right Reframes Killing of Floyd"
+  },
+  "_id": "nyt://article/23f4870f-bf65-5acf-85dd-227d6e43288c",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Murders, Attempted Murders and Homicides",
+      "rank": 2
+    },
+    {
+      "name": "Person",
+      "value": "Floyd, George (d 2020)",
+      "rank": 3
+    },
+    {
+      "name": "Person",
+      "value": "Chauvin, Derek (1976- )",
+      "rank": 4
+    },
+    {
+      "name": "Location",
+      "value": "Minneapolis (Minn)",
+      "rank": 5
+    },
+    {
+      "name": "Subject",
+      "value": "Right-Wing Extremism and Alt-Right",
+      "rank": 6
+    },
+    {
+      "name": "Subject",
+      "value": "Rumors and Misinformation",
+      "rank": 7
+    },
+    {
+      "name": "Subject",
+      "value": "George Floyd Protests (2020)",
+      "rank": 8
+    },
+    {
+      "name": "Subject",
+      "value": "Black Lives Matter Movement",
+      "rank": 9
+    },
+    {
+      "name": "Subject",
+      "value": "Black People",
+      "rank": 10
+    },
+    {
+      "name": "Subject",
+      "value": "Discrimination",
+      "rank": 11
+    },
+    {
+      "name": "Subject",
+      "value": "Amnesties, Commutations and Pardons",
+      "rank": 12
+    },
+    {
+      "name": "Subject",
+      "value": "Conservatism (US Politics)",
+      "rank": 13
+    },
+    {
+      "name": "Subject",
+      "value": "United States Politics and Government",
+      "rank": 14
+    },
+    {
+      "name": "Person",
+      "value": "Trump, Donald J",
+      "rank": 15
+    }
+  ],
+  "multimedia": {
+    "caption": "George Floyd Square in Minneapolis, Minn.",
+    "credit": "Joshua Rashaad McFadden for The New York Times",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/05/22/multimedia/00nat-floyd-misinfo-lvbj/00nat-floyd-misinfo-lvbj-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/05/22/multimedia/00nat-floyd-misinfo-lvbj/00nat-floyd-misinfo-lvbj-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "1",
+  "print_section": "A",
+  "pub_date": "2025-05-24T09:01:23Z",
+  "section_name": "U.S.",
+  "snippet": "After George Floyd was killed, people from the right and left agreed that the act was unconscionable. Now, some conservatives are calling for the police officer responsible to be pardoned.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/23f4870f-bf65-5acf-85dd-227d6e43288c",
+  "web_url": "https://www.nytimes.com/2025/05/24/us/george-floyd-derek-chauvin-republicans.html",
+  "word_count": 1352
+},
+{
+  "abstract": "Videos, photographs and police reports released by the Santa Fe County Sheriff’s Office in New Mexico offered a look into the days before Betsy Arakawa and Mr. Hackman died.",
+  "byline": {
+    "original": "By Julia Jacobs and Nicholas Bogel-Burroughs"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Wife of Gene Hackman Asked About Flulike Symptoms Before Their Deaths",
+    "kicker": "",
+    "print_headline": ""
+  },
+  "_id": "nyt://article/fdb7fa12-14d3-50f5-822b-15ca15b1881f",
+  "keywords": [
+    {
+      "name": "Subject",
+      "value": "Deaths (Fatalities)",
+      "rank": 1
+    },
+    {
+      "name": "Person",
+      "value": "Arakawa, Betsy (1959-2025)",
+      "rank": 2
+    },
+    {
+      "name": "Person",
+      "value": "Hackman, Gene",
+      "rank": 3
+    },
+    {
+      "name": "Location",
+      "value": "Santa Fe (NM)",
+      "rank": 4
+    },
+    {
+      "name": "Subject",
+      "value": "Hantavirus",
+      "rank": 5
+    },
+    {
+      "name": "Subject",
+      "value": "Alzheimer's Disease",
+      "rank": 6
+    }
+  ],
+  "multimedia": {
+    "caption": "Betsy Arakawa’s body was found in a bathroom in the home she shared with her husband, Gene Hackman, near Santa Fe, N.M.",
+    "credit": "Santa Fe County Sheriff’s Office",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15cul-hackman-bodycam-hbfw/15cul-hackman-bodycam-hbfw-articleLarge.jpg",
+      "height": 399,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/04/15/multimedia/15cul-hackman-bodycam-hbfw/15cul-hackman-bodycam-hbfw-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "Culture",
+  "print_page": "",
+  "print_section": "",
+  "pub_date": "2025-04-15T23:25:07Z",
+  "section_name": "Movies",
+  "snippet": "Videos, photographs and police reports released by the Santa Fe County Sheriff’s Office in New Mexico offered a look into the days before Betsy Arakawa and Mr. Hackman died.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/fdb7fa12-14d3-50f5-822b-15ca15b1881f",
+  "web_url": "https://www.nytimes.com/2025/04/15/movies/gene-hackman-betsy-arakawa-deaths.html",
+  "word_count": 773
+}]

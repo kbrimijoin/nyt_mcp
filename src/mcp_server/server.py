@@ -3,8 +3,10 @@
 import os
 from typing import Any
 import httpx
+import json
 from dotenv import load_dotenv
 from mcp.server.fastmcp import FastMCP
+from bs4 import BeautifulSoup
 
 load_dotenv()
 
@@ -30,13 +32,19 @@ async def article_search(query: str) -> dict:
         query: keywords to search on
         filter: filter search results
     """
+    base_url = os.getenv('NYT_API_BASE_URL')
+    api_key = os.getenv('NYT_API_KEY')
+
+    if not base_url or not api_key:
+        raise KeyError("NYT_API_BASE_URL or NYT_API_KEY environment variables are not set.")
+
     url = f"{os.getenv('NYT_API_BASE_URL')}/articlesearch.json?q={query}&api-key={os.getenv('NYT_API_KEY')}"
-    
+
     data = await make_nyt_request(url)
 
-    if not data or data['status'] != 'OK' or not data['response'] or not data['response']['docs']:
+    if not data or 'status' not in data or data['status'] != 'OK' or not data['response'] or not data['response']['docs']:
         return "Unable to perform article search."
-  
+
     return data['response']['docs']
 
 

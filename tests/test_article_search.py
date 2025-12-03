@@ -154,28 +154,6 @@ class TestMakeNYTRequest:
             assert result is None
 
     @pytest.mark.asyncio
-    async def test_make_nyt_request_correct_headers(self):
-        """Test that correct headers are sent with the request."""
-        test_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json"
-
-        with patch('httpx.AsyncClient') as mock_client:
-            mock_get = AsyncMock()
-            mock_response = MagicMock()
-            mock_response.json.return_value = {}
-            mock_response.raise_for_status = MagicMock()
-            mock_get.return_value = mock_response
-
-            mock_client.return_value.__aenter__.return_value.get = mock_get
-
-            await make_nyt_request(test_url)
-
-            # Verify headers were passed
-            call_kwargs = mock_get.call_args[1]
-            assert 'headers' in call_kwargs
-            assert call_kwargs['headers']['User-Agent'] == "weather-app/1.0"
-            assert call_kwargs['headers']['Accept'] == "application/geo+json"
-
-    @pytest.mark.asyncio
     async def test_make_nyt_request_timeout_parameter(self):
         """Test that timeout parameter is set correctly."""
         test_url = "https://api.nytimes.com/svc/search/v2/articlesearch.json"

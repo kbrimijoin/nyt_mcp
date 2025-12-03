@@ -1,0 +1,106 @@
+{
+  "abstract": "The order comes as the Trump administration has carried out an immigration crackdown in the region.",
+  "byline": {
+    "original": "By Mattathias Schwartz"
+  },
+  "document_type": "article",
+  "headline": {
+    "main": "Judge Orders Some Federal Agents to Turn on Body Cameras in Chicago Area",
+    "kicker": "",
+    "print_headline": "Some Agents Are Ordered  To Turn On Body Cameras"
+  },
+  "_id": "nyt://article/2a67d186-6a7a-5db2-b2df-862a37a2308d",
+  "keywords": [
+    {
+      "name": "Location",
+      "value": "Chicago (Ill)",
+      "rank": 1
+    },
+    {
+      "name": "Subject",
+      "value": "Demonstrations, Protests and Riots",
+      "rank": 2
+    },
+    {
+      "name": "Subject",
+      "value": "Illegal Immigration",
+      "rank": 3
+    },
+    {
+      "name": "Organization",
+      "value": "Immigration and Customs Enforcement (US)",
+      "rank": 4
+    },
+    {
+      "name": "Organization",
+      "value": "Customs and Border Protection (US)",
+      "rank": 5
+    },
+    {
+      "name": "Subject",
+      "value": "Tear Gas",
+      "rank": 6
+    },
+    {
+      "name": "Subject",
+      "value": "Cameras",
+      "rank": 7
+    },
+    {
+      "name": "Subject",
+      "value": "Police Brutality, Misconduct and Shootings",
+      "rank": 8
+    },
+    {
+      "name": "Subject",
+      "value": "Federal-State Relations (US)",
+      "rank": 9
+    },
+    {
+      "name": "Subject",
+      "value": "Federal Courts (US)",
+      "rank": 10
+    },
+    {
+      "name": "Subject",
+      "value": "Decisions and Verdicts",
+      "rank": 11
+    },
+    {
+      "name": "Person",
+      "value": "Ellis, Sara L",
+      "rank": 12
+    },
+    {
+      "name": "Subject",
+      "value": "Federal Actions in US Cities",
+      "rank": 13
+    }
+  ],
+  "multimedia": {
+    "caption": "Federal agents clashed with residents of a Chicago neighborhood earlier this week.",
+    "credit": "Jamie Kelter Davis for The New York Times",
+    "default": {
+      "url": "https://static01.nyt.com/images/2025/10/17/multimedia/17nat-chicago-ice-mbzf/17nat-chicago-ice-mbzf-articleLarge.jpg",
+      "height": 400,
+      "width": 600
+    },
+    "thumbnail": {
+      "url": "https://static01.nyt.com/images/2025/10/17/multimedia/17nat-chicago-ice-mbzf/17nat-chicago-ice-mbzf-thumbStandard.jpg",
+      "height": 75,
+      "width": 75
+    }
+  },
+  "news_desk": "National",
+  "print_page": "22",
+  "print_section": "A",
+  "pub_date": "2025-10-17T22:47:38Z",
+  "section_name": "U.S.",
+  "snippet": "The order comes as the Trump administration has carried out an immigration crackdown in the region.",
+  "source": "The New York Times",
+  "subsection_name": "",
+  "type_of_material": "News",
+  "uri": "nyt://article/2a67d186-6a7a-5db2-b2df-862a37a2308d",
+  "web_url": "https://www.nytimes.com/2025/10/17/us/chicago-ice-body-cameras.html",
+  "word_count": 598
+}
