@@ -10,6 +10,8 @@ Note: This project was scaffolded swiftly with Claude Code. MCP implementation w
 
 https://github.com/user-attachments/assets/3cc1b9e3-6c19-4b1c-abc1-2cbeb5780684
 
+[Download hi-res video](https://drive.google.com/file/d/14icof5m-8sDIXCGc1vntQ5nGBE8f9xwx/view?usp=sharing)
+
 ## Setup
 
 1. Create a virtual environment:
